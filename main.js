@@ -195,7 +195,7 @@ class Home extends InnerPage {
 
         //pinta el body
         var body = this.pintarBody();
-            body.innerHTML = "Logeado!";
+            body.style.backgroundImage = "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3pSR9OkJDReZ4oARfm7mVVguo9RAeLs2WDmmRYy6sEL8kJ6m-')";
             divContent.appendChild(body);
         this._contenedor.appendChild(divContent);
     }
