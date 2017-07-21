@@ -1,0 +1,29 @@
+.container{
+	/*background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3pSR9OkJDReZ4oARfm7mVVguo9RAeLs2WDmmRYy6sEL8kJ6m-');*/
+	background-color: orange;
+
+}
+.boton_menu{
+	border-radius: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 250px;
+    margin: 8px;
+}
+
+.alerta{
+	margin-top: 170px;
+}
+
+.formLogin input{
+	margin: 8px;
+}
+
+.formLogin label{
+	display: block;
+}
+.grupo{
+	text-align: right;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "proyecto final JS",
+  "main": "main.js",
+  "config":{
+    "port": "8081"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serve.js"
+  },
+  "author": "Karen Rosas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
